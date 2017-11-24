@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1075712009659",
+    "project_id": "restoapp-86d14"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075712009659:android:58dd3ece7eb1c950",
+        "android_client_info": {
+          "package_name": "com.example.administrator.restoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075712009659-ufjusd3jtnm87040hm557fa84vnfar3b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1075712009659-h24r9k8nsqdss3rikhpepm1hgjf76j8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.administrator.restoapp",
+            "certificate_hash": "781f575deebbba06e20d0815224cf651bae385fb"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFcXEnlvBAJqMMAcHkm0NxnZaxTLsLQ8s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
